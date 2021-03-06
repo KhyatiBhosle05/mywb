@@ -100,9 +100,12 @@ hr{
 }
 /*******************************************************middle screen*********************************************************/
 
+.cook{
+    text-decoration: underline;
+}
+
 .middle{
     background-color:#dddddd;
-    height: 100vh;
     margin-top: 0%;
     padding-top: 0%;
 }
@@ -110,45 +113,161 @@ hr{
 .hd2{
     font-family: 'Sacramento', cursive;
     font-size: 300%;
-    position: relative;
-    top:10%;
+    position: absolute;
+    top: 110%;
+    left:45%;
+    font-weight: lighter;
 }
 
-.rt{font-size: 180%;
-    position: relative;
-    top:10%;
+.rt{font-size: 150%;
+    position: absolute;
+    top:125%;
+    left: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: left;
+}
+
+.rt2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
 
 }
 
-.m{font-size: 180%;
-    position: relative;
-    top:10%;}
+.redtikka{
+    border-radius: 100%;
+    width:15%;
+    position: absolute;
+    top: 125%;
+    left:59%;
+}
 
-.gt{font-size: 180%;
-    position: relative;
-    top:10%;}
+.m{font-size: 150%;
+    position: absolute;
+    top:160%;
+    right: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: right;
+}
 
-.cc{font-size: 180%;
-    position: relative;
-    top:10%;}
+.m2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
+}
 
-.bc{font-size: 180%;
-    position: relative;
-    top:10%;}
 
-.kb{font-size: 180%;
-    position: relative;
-    top:10%;}
+.momo{
+    border-radius: 100%;
+    width: 15%;
+    position: absolute;
+    top: 160%;
+    right:59%;
+}
+
+.gt{
+    font-size: 150%;
+    position: absolute;
+    top:195%;
+    left: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.gt2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
+}
+
+.tikka{
+    border-radius: 100%;
+    width: 15%;
+    position: absolute;
+    top: 195%;
+    left:59%;
+}
+
+.cc{
+    font-size: 150%;
+    position: absolute;
+    top:230%;
+    right: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: right;
+
+}
+
+.cc2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
+}
+
+.chillichicken{
+    border-radius: 100%;
+    width: 15%;
+    position: absolute;
+    top: 230%;
+    right:59%;
+}
+
+.bc{
+    font-size: 150%;
+    position: absolute;
+    top:265%;
+    left: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.bc2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
+}
+
+.butterchicken{
+    border-radius: 100%;
+    width: 15%;
+    position: absolute;
+    top: 265%;
+    left:59%;
+}
+
+.kb{
+    font-size: 150%;
+    position: absolute;
+    top:300%;
+    right: 27%;
+    display:inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.kb2{
+    font-family: 'Sacramento', cursive;
+    font-size: 170%;
+}
+
+.kebab{
+    border-radius: 100%;
+    width: 15%;
+    position: absolute;
+    top: 300%;
+    right:59%;    
+}
+
 
 .mc{
-    font-size: 180%;
+    font-size: 170%;
     position: relative;
     top:10%;
 }
-
+    
 .hr2{    
     position:absolute;
-    top: 185%;
+    top: 340%;
     left: 47%;
 }
 
@@ -157,5 +276,16 @@ hr{
 
 .bottom{
     background-color: #dddddd;
-    height: 100vh;
+    position:absolute;
+    top: 350%;
+}
+
+.plast{
+    display: inline-block;
+    position: relative;
+    left:583%;
+}
+a{
+    font-size: 150%;
+    color: black;
 }
