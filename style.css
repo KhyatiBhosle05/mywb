@@ -16,7 +16,7 @@ h1{
     font-family: 'Sacramento', cursive;
     
     margin: 0;
-    font-size: 12vh;
+    font-size: 600%;
     font-weight: lighter;
     position: relative;
     top: 100px;
@@ -24,14 +24,15 @@ h1{
 
 .p1{
     font-family: 'Josefin Slab', serif;
-    font-size: 4vh;
+    font-size: 200%;
     margin-top: 0px;
     position: relative;
     top: 100px;
 }
 
 .mainimg{
-    width: 70vw;
+    /**width: 70%;**/
+    height: 25%;
     margin: 0;
     padding: 0;
     position: absolute;
@@ -87,6 +88,9 @@ h1{
     background-color: d3e0ea;
     height: 100vh;
 }
+
+
+
 
 
 
