@@ -1,0 +1,92 @@
+body{
+    
+    margin: 0%;
+    background-color: #dddddd;
+    text-align: center;
+    font-family:verdana, sans-serif;
+}
+
+.top{
+    height:100vh;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+h1{ 
+    font-family: 'Sacramento', cursive;
+    
+    margin: 0;
+    font-size: 12vh;
+    font-weight: lighter;
+    position: relative;
+    top: 100px;
+}
+
+.p1{
+    font-family: 'Josefin Slab', serif;
+    font-size: 4vh;
+    margin-top: 0px;
+    position: relative;
+    top: 100px;
+}
+
+.mainimg{
+    width: 70vw;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom:0%;
+    left: 15%;   
+    }
+
+.nomy1{
+    width: 15%;
+    position: absolute;
+    right: 25%;
+    top: 40%;
+}
+
+.nomp1{
+    width: 15%;
+    position: absolute;
+    left:27%;
+    top:50%;
+}
+
+.nomb1{
+    width: 15%;
+    position: absolute;
+    left:0%;
+    top:10%;
+}
+
+.nomy2{
+    width: 15%;
+    position: absolute;
+    left:3%;
+    bottom: 10%;
+}
+
+.nomp2{
+    width: 15%;
+    position: absolute;
+    right:0%;
+    top:7%;
+}
+
+.nomb2{
+
+    width: 15%;
+    position: absolute;
+    right:7%;
+    bottom:7%;
+}
+
+
+.middle{
+    background-color: d3e0ea;
+    height: 100vh;
+}
+
+
+
